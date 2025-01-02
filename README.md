@@ -10,7 +10,6 @@ Welcome to the Conexus project! This repository contains the code and resources 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [Timeline] (#timeline)
 
 ## Project Overview
 
