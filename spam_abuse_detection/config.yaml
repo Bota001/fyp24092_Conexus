@@ -1,0 +1,13 @@
+training:
+  epochs: 3
+  batch_size: 16
+  learning_rate: 5e-5
+
+data:
+  max_length: 128
+  train_test_split: 0.2
+
+paths:
+  raw_data: "data/raw/spam.csv"
+  processed_data: "data/processed/preprocessed_data.csv"
+  model_dir: "./models/trained_model"
