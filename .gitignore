@@ -11,3 +11,6 @@ data/processed/
 
 # Ignore Jupyter Notebook checkpoints
 *.ipynb_checkpoints
+
+spam_abuse_detection/models/trained_model/checkpoint-*/optimizer.pt
+spam_abuse_detection/models/trained_model/
