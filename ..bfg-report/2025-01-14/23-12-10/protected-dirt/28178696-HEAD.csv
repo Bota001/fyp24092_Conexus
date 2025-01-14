@@ -1,0 +1,4 @@
+5a0a3b60374ffe0d0c711f78b4d2ac7d69658ac9,DELETE,regular-file,spam_abuse_detection/models/trained_model/checkpoint-1/model.safetensors,134,
+3c0e697c190f4087324a3b15dfc230b68c2f145c,DELETE,regular-file,spam_abuse_detection/models/trained_model/checkpoint-2/model.safetensors,134,
+af74affb51fe50cc25d652b8da0f87c8a227a583,DELETE,regular-file,spam_abuse_detection/models/trained_model/checkpoint-3/model.safetensors,134,
+7149f6608550588f2904da4b1f01cb2a8b623d1a,DELETE,regular-file,spam_abuse_detection/models/trained_model/model.safetensors,437958648,
