@@ -1,0 +1,2 @@
+spam_abuse_detection/data/raw/train.csv filter=lfs diff=lfs merge=lfs -text
+spam_abuse_detection/models/trained_model/checkpoint-*/model.safetensors filter=lfs diff=lfs merge=lfs -text
